@@ -1,4 +1,0 @@
-package ObserverPattern
-
-class Client {
-}
